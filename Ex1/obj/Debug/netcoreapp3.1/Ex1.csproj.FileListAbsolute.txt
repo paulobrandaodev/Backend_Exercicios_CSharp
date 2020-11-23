@@ -1,0 +1,13 @@
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CoreCompileInputs.cache
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+F:\Documentos\SENAI\1D\Exercícios Resolvidos\Backend_Exercicios_CSharp\Ex1\obj\Debug\netcoreapp3.1\Ex1.genruntimeconfig.cache
